@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🚀 About Me
-My name is Obasi Chiamaka and I'M ASPIRING WEB DEVELOPER.
+My name is Obasi Chiamaka and I'M ASPIRING WEB DEVELOPER/DATA ANALYST.
 
 
 ## 🛠 Skills
